@@ -1,0 +1,25 @@
+
+.searchHead {
+  display: flex;
+  align-items: center;
+  margin: 25px;
+}
+
+.logoLarge {
+  width: 83px;
+  height: 28px;
+  margin: 0 25px;
+}
+
+.searchBar {
+  border: 5px solid black;
+  border-radius: 25px;
+}
+
+.search {
+  border-style: none;
+}
+
+.searchBar i {
+  margin: 0 20px;
+}
